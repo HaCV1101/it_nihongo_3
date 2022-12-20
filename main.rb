@@ -1,1 +1,1 @@
-puts 'Hello, ThuHa!'
+puts 'Hello, ThuHa xinh gai!'
